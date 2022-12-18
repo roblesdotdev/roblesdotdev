@@ -1,4 +1,4 @@
-<a href="https://github.com/roblesdotdev/www.roblesdotdev">
+<a href="https://github.com/roblesdotdev/roblesdotdev-site">
   <picture>
     <source
       alt="dark banner"
