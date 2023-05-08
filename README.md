@@ -10,4 +10,4 @@
   </picture>
 </a>
 
-[🔗 Website](https://roblesdotdev.fly.dev/)
+<a href="https://roblesdotdev.fly.dev/" target="_blank" rel="noopener noreferrer">🔗 Website</a>
