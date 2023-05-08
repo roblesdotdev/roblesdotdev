@@ -41,6 +41,8 @@ Si estás interesado en mi perfil no dudes en contactarme.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robles-ra/)
 [![Linktree](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://roblesdotdev.fly.dev/)
 
+<!--
 #### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roblesdotdev&langs_count=3&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
