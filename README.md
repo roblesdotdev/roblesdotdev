@@ -10,4 +10,25 @@
   </picture>
 </a>
 
-<a href="https://roblesdotdev.fly.dev/" target="_blank" rel="noopener noreferrer">🔗 Website</a>
+---
+¡Bienvenido a mi GitHub! Soy Aldo, un desarrollador fullstack orientado a web. Cuando no estoy trabajando en algún proyecto me gusta investigar y experimentar con nuevas tecnologías. Estoy en constante busqueda de mejorar mis skills con el objetivo de crear applicaciones web rápidas, accesibles y con buenas prácticas.
+
+#### Skills 
+
+Dentro de las tecnologias que utilizo diariamente se encuentran HTML, CSS, Javascript, Typescript, React, Next.js, Remix, Node, Tailwindcss, PrismaORM, PostgreSQL, Sqlite entre otras.
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### Contacto
+
+Si estás interesado en mi perfil no dudes en contactarme.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robles-ra/)
+[![Linktree](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://roblesdotdev.fly.dev/)
