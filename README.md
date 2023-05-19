@@ -31,14 +31,6 @@ Dentro de las tecnologias que utilizo diariamente se encuentran HTML, CSS, Javas
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
-#### Proyectos recientes
-
-- [PHunt](https://github.com/roblesdotdev/next-phunt): Aplicación similar a Product Hunt realizada con NextJs 13, Typescript, Prisma y TailwindCSS.
-- [Empli(Henry PF)](https://github.com/empli-org/empli-www): Proyecto realizado en equipo con metodologia Agile. La aplicación tiene secciones diferenciadas por roles y funcionalidades basadas al plan del usuario. Los planes y suscipciones se manejan con la plataforma mercado pago. Algunas tecnologias utilizadas son: Javascript/Typescript, Node, Express, Prisma, Postgres, React, Redux Toolkit y TailwindCSS.
-- [Emploii](https://github.com/roblesdotdev/emploii): Sitio web para listar y buscart trabajo realizada con Remix, Node, Tailwind, Prisma y Postgres.
-- [Onelink](https://github.com/roblesdotdev/onelink): Aplicación similar a linktree realizada con Typescript, Remix, Node, Tailwind, Prisma y Sqlite. 
-- [Countries(Henry PI)](https://github.com/roblesdotdev/countries-monorepo): Repositorio configurado como fullstack monorepo con los workspaces de PNPM. Algunas tecnologias utilizadas fueron node, express, sequelize y postgres para el back, Javascript, React, Redux, ReactRouter y SASS para el front.
-
 #### Contacto
 
 Si estás interesado en mi perfil no dudes en contactarme.
