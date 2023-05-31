@@ -31,6 +31,8 @@ Dentro de las tecnologias que utilizo diariamente se encuentran HTML, CSS, Javas
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)
 
+Actualmente aprendiendo [GO](https://go.dev/)
+
 #### Contacto
 
 Si estás interesado en mi perfil no dudes en contactarme.
